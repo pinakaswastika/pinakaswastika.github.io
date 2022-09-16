@@ -4,10 +4,8 @@
 
 ###
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="ipin.jepg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+#### I am currently a student at Diponegoro University
 <!-- Remove above link if you don't want to attibute -->
