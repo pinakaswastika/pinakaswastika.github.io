@@ -1,9 +1,6 @@
 ## Hello
 
 ---
-
-###
-
 <img src="ipin.jepg?raw=true"/>
 
 ---
