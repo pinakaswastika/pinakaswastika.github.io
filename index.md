@@ -1,7 +1,7 @@
 ## Hello
 
 ---
-<img src="ipin.jpeg?raw=true" height="20%" width="20%"/>
+<img src="ipin.jpeg?raw=true" height="30%" width="30%"/>
 
 ---
 #### I am Currently a Student Majoring in Statistics at Diponegoro University
