@@ -1,7 +1,7 @@
 ## Hello
 
 ---
-<img src="ipin.jepg?raw=true"/>
+<img src="ipin.jpeg?raw=true"/>
 
 ---
 #### I am currently a student majoring in statistics at Diponegoro University
